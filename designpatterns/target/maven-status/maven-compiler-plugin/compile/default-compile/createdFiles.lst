@@ -1,0 +1,5 @@
+com\designpatterns\Main.class
+com\designpatterns\UseEditor.class
+com\designpatterns\momento\EditorState.class
+com\designpatterns\momento\History.class
+com\designpatterns\momento\Editor.class
